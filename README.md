@@ -1,6 +1,4 @@
-# go-pkg
-
-Shared Go module — reusable building blocks for all Go projects.
+# Shared Go module reusable building blocks for all Go projects.
 
 Provides generic CRUD, JWT authentication, structured logging, error handling, input validation, and more out-of-the-box.
 
@@ -310,6 +308,3 @@ go-pkg/
 └── validator/      # Input validation & HTML sanitization
 ```
 
-## License
-
-MIT
